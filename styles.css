@@ -1,0 +1,10 @@
+h1,p {
+    text-align: center;
+   }
+   
+   #shape {
+    background-color: red;
+    border-radius: 50%;
+    position: absolute;
+    display: none;
+  }
