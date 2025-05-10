@@ -4,7 +4,6 @@ h1,p {
    
    #shape {
     background-color: red;
-    border-radius: 50%;
     position: absolute;
     display: none;
   }
